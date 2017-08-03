@@ -125,7 +125,7 @@ $(document).on('click', '.header_navbar_mobile', function() {
 
 (function setTime(){
 	var today = new Date(),
-		dd = today.getDate() + 14,
+		dd = today.getDate() + 20,
 		mm = today.getMonth(), //January is 0!
 		countdown_month,
 		yyyy = today.getFullYear(),
